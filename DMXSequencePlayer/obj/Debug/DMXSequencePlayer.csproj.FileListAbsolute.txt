@@ -1,0 +1,6 @@
+c:\users\demian\documents\visual studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\bin\Debug\DMXSequencePlayer.exe.config
+c:\users\demian\documents\visual studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\bin\Debug\DMXSequencePlayer.exe
+c:\users\demian\documents\visual studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\bin\Debug\DMXSequencePlayer.pdb
+c:\users\demian\documents\visual studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\obj\Debug\DMXSequencePlayer.csprojResolveAssemblyReference.cache
+c:\users\demian\documents\visual studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\obj\Debug\DMXSequencePlayer.exe
+c:\users\demian\documents\visual studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\obj\Debug\DMXSequencePlayer.pdb

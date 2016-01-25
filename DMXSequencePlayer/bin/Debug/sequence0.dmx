@@ -1,0 +1,7 @@
+dmx 8|255
+sleep 5000
+dmx 8|0
+dmx 9|255
+sleep 1000
+dmx 9|0
+exit
