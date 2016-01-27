@@ -3,3 +3,4 @@ C:\Users\Demian\Documents\Visual Studio 2015\Projects\DMXSequencePlayer\DMXSeque
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\bin\Release\DMXSequencePlayer.pdb
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\obj\Release\DMXSequencePlayer.exe
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\obj\Release\DMXSequencePlayer.pdb
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\DMXSequencePlayer\DMXSequencePlayer\obj\Release\DMXSequencePlayer.csprojResolveAssemblyReference.cache
